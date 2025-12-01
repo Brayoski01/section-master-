@@ -131,7 +131,7 @@
 }
 
 .chat-icon {
-  background-color: rgb(255, 223, 223);
+  background-color: #FBE5E6;
   width: 35px;
   height: 35px;
   border-radius: 17px;
@@ -200,3 +200,4 @@
     text-align: left;
   }
 }
+
