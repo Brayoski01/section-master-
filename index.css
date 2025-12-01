@@ -1,6 +1,6 @@
 .container {
   width: 100%;
-  background: url("resources/Background_image.svg");
+  background: url("Background_image.svg");
   background-color: #121826;
   color: white;
 }
@@ -191,3 +191,4 @@
     text-align: left;
   }
 }
+
