@@ -3,6 +3,7 @@
   background: url("Background_image.svg");
   background-color: #121826;
   color: white;
+  font-family: "Outfit";
 }
 
 .container h1 {
@@ -191,4 +192,5 @@
     text-align: left;
   }
 }
+
 
